@@ -3,7 +3,6 @@ import 'dart:math';
 import 'dart:async';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:convert';
-import 'data/default_cards.dart';
 import 'data/card_collections.dart';
 
 void main() {
