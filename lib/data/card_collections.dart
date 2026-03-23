@@ -41,19 +41,19 @@ final List<CardCollection> defaultCollections = [
   CardCollection(
     name: "Парти шийтгэл",
     cards: ["Everyone take a shot!"],
-    isDefault: true,
+    isDefault: false,
     id: "party_punishments",
   ),
   CardCollection(
     name: "Үнэн эсвэл шийтгэл",
     cards: ["Reveal your most embarrassing moment"],
-    isDefault: true,
+    isDefault: false,
     id: "truth_or_dare",
   ),
   CardCollection(
     name: "Halloween кардс",
     cards: halloweenCards,
-    isDefault: true,
-    id: "default_cards",
+    isDefault: false,
+    id: "halloween_cards",
   ),
 ];
