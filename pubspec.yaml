@@ -8,6 +8,9 @@ environment:
 
 dependencies:
   shared_preferences: ^2.2.2
+  share_plus: ^10.1.4
+  file_picker: ^8.1.6
+  path_provider: ^2.1.4
   flutter:
     sdk: flutter
 
